@@ -1,2 +1,2 @@
-export * from './Login';
-export * from './Login.props';
+export * from './Login'
+export * from './Login.props'
